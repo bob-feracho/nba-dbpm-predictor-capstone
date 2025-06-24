@@ -4,6 +4,9 @@
 
 This project was developed as a capstone for my B.S. in Computer Science at Western Governors University.
 
+⚠️ This project was developed for my personal capstone and learning journey.  
+Please do not reuse or submit this work without understanding it — you’ll only be hurting yourself.
+
 ## 📌 Overview
 
 This app uses Random Forest regression to estimate a player’s defensive impact (DBPM) from NBA Draft Combine stats like height, weight, sprint time, lane agility, and verticals.
