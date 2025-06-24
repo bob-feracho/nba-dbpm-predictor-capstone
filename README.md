@@ -35,35 +35,43 @@ It includes:
 
 ## 📷 Screenshots
 
-<img width="953" alt="image" src="https://github.com/user-attachments/assets/e2f1c0c6-45c8-4731-99ff-7f8eb4bca8e0" />
-*Figure 1: launching main.exe and GUI*
+---
 
+**Figure 1: Launching GUI and entering player stats**
 
+<img width="953" alt="GUI Launch" src="https://github.com/user-attachments/assets/e2f1c0c6-45c8-4731-99ff-7f8eb4bca8e0" />
 
-<img width="497" alt="image" src="https://github.com/user-attachments/assets/0f32556c-3ce9-4568-9d0d-a1d57dd96c05" />
-*Figure 2: selecting R^2 for position and the submit button to get the predictive DBPM*
+---
 
+**Figure 2: Selecting R² for position and submitting to get the predictive DBPM**
 
+<img width="497" alt="R2 Selection + Prediction" src="https://github.com/user-attachments/assets/0f32556c-3ce9-4568-9d0d-a1d57dd96c05" />
 
-<img width="731" alt="image" src="https://github.com/user-attachments/assets/e4b64744-25f5-4faf-aacb-0ff6e2580634" />
-*Figure 3: generating Feautre Importance Graph*
+---
 
+**Figure 3: Generating Feature Importance Graph**
 
+<img width="731" alt="Feature Importance Graph" src="https://github.com/user-attachments/assets/e4b64744-25f5-4faf-aacb-0ff6e2580634" />
+
+---
+
+**Figure 4: SHAP Beeswarm Graph – showing each feature’s impact on DBPM**
 
 ![shap_beeswarm_pg](https://github.com/user-attachments/assets/4b1c3e10-aaab-4a16-ad09-b2e58548aa0c)
-*Figure 4: Sample SHAP beeswarm graph- determining the impact of each feauture whether it had a positive or negative impact on DBPM*
 
+---
 
+**Figure 5: SHAP Bar Graph – feature importance ranked**
 
 ![shap_bar_pg](https://github.com/user-attachments/assets/3251bf70-c510-4e2b-8390-51b32ffc977b)
-*Figure 4: Sample SHAP bar graph*
 
+---
 
+**Figure 6: Generating scatterplots comparing actual vs predicted DBPM**
 
-![image](https://github.com/user-attachments/assets/3f859ff5-49f7-4aef-b75c-42cf21acd206)
-*Figure 5: generating scatterplots comparing actual vs predictive data points*
+![Scatterplot Output](https://github.com/user-attachments/assets/3f859ff5-49f7-4aef-b75c-42cf21acd206)
 
-
+---
 
 
 ## 🚀 How to Run
