@@ -7,6 +7,8 @@ This project was developed as a capstone for my B.S. in Computer Science at West
 ⚠️ This project was developed for my personal capstone and learning journey.  
 Please do not reuse or submit this work as part of your coursework.
 
+And a huge thank you to users sumitrodatta and wyattowalsh on Kaggle for compiling and updating this data!
+
 ## 📌 Overview
 
 This app uses Random Forest regression to estimate a player’s defensive impact (DBPM) from NBA Draft Combine stats like height, weight, sprint time, lane agility, and verticals.
@@ -102,6 +104,13 @@ See the full write-up here: [C964 Writeup- Micah Lin.pdf](https://github.com/use
 ## ♻️ Downloads
 
 Download the main.exe here: [main.exe](https://drive.google.com/file/d/1E65Q9hFpvK7YeQWX-o5HZPqrPkiSDOOq/view?usp=sharing)
+
+## 📅 Datasets used
+
+sumitrodatta: [NBA Stats 1947-present](https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats)  
+wyattowalsh: [NBA Database](https://www.kaggle.com/datasets/wyattowalsh/basketball)  
+
+
 
 ## 📬 Contact
 
