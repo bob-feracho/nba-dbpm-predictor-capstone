@@ -107,3 +107,4 @@ Download the main.exe here: [main.exe](https://drive.google.com/file/d/1E65Q9hFp
 
 Created by [Micah Lin](https://github.com/bob-feracho)  
 Open to research collaboration and further development.
+Email: micahlin0711@gmail.com
