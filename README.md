@@ -37,12 +37,16 @@ It includes:
 
 <img width="953" alt="image" src="https://github.com/user-attachments/assets/e2f1c0c6-45c8-4731-99ff-7f8eb4bca8e0" />
 *Figure 1: launching main.exe and GUI*
+
 <img width="497" alt="image" src="https://github.com/user-attachments/assets/0f32556c-3ce9-4568-9d0d-a1d57dd96c05" />
 *Figure 2: selecting R^2 for position and the submit button to get the predictive DBPM*
+
 <img width="731" alt="image" src="https://github.com/user-attachments/assets/e4b64744-25f5-4faf-aacb-0ff6e2580634" />
 *Figure 3: generating Feautre Importance Graph*
+
 <img width="434" alt="image" src="https://github.com/user-attachments/assets/663b4a22-2918-4b38-b991-6c70d4f58b05" />
 *Figure 4: generating Beeswarm and Bar Graphs using SHAP- saved to program directory*
+
 ![image](https://github.com/user-attachments/assets/3f859ff5-49f7-4aef-b75c-42cf21acd206)
 *Figure 5: generating scatterplots comparing actual vs predictive data points*
 
