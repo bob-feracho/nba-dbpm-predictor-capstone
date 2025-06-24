@@ -109,3 +109,9 @@ Created by [Micah Lin](https://github.com/bob-feracho)
 Open to research collaboration and further development.  
 Email: micahlin0711@gmail.com
 
+## 📜 License
+
+The following program and code is published under a modified version of the MIT license with a non-commercial use clause.  
+See [LICENSE.txt](./LICENSE.txt) for full terms.
+
+
