@@ -99,6 +99,9 @@ It includes:
 
 See the full write-up here: [C964 Writeup- Micah Lin.pdf](https://github.com/user-attachments/files/20886357/C964.Writeup-.Micah.Lin.pdf)
 
+## ♻️ Downloads
+
+Download the main.exe here: [main.exe](https://drive.google.com/file/d/1E65Q9hFpvK7YeQWX-o5HZPqrPkiSDOOq/view?usp=sharing)
 
 ## 📬 Contact
 
